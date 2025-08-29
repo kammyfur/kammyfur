@@ -11,3 +11,7 @@ Because of the rise of large language models and the use of public source code t
 
 * Projects I am currently working on will be closed-source, unless they date from before I made this decision, in which case they will remain open-source.
 * Projects I have abandoned will be released as open-source under the GNU AGPLv3 license (like before) 30 days after they are abandoned.
+
+### Projects getting a source release soon soon
+
+* Luxicon: September 20th, 2025
