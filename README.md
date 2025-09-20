@@ -14,4 +14,4 @@ Because of the rise of large language models and the use of public source code t
 
 ### Projects getting a source release soon
 
-* Luxicon: September 20th, 2025
+Nothing for now.
